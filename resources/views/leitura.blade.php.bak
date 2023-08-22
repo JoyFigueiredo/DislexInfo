@@ -1,0 +1,17 @@
+@extends('layouts.app')
+
+@section('myjs')
+	<script src="{{ asset('js/simulacaoleitura.js') }}" defer></script>
+@endsection
+
+@section('mycss')
+	<link href="{{ asset('css/simulacaoleitura.css') }}" rel="stylesheet">
+@endsection
+
+@section('content')
+	<div class="fonte">
+		<p>Teste do simulador.</p>
+
+		<p>A dislexia é um distúrbio genético que dificulta o aprendizado e a realização da leitura e da escrita. O cérebro, por razões ainda não muito bem esclarecidas, tem dificuldade para encadear as letras e formar as palavras, e não relaciona direito os sons às sílabas formadas. Como sintoma, a pessoa começa a trocar a ordem de certas letras ao ler e escrever.</p>
+  </div>
+@endsection
