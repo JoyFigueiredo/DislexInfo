@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-Aplicação desenvolvida para auxiliar na **identificação e apoio a pessoas com dislexia**, oferecendo informações, recursos e testes interativos.  
+Aplicação desenvolvida para auxiliar na <strong>identificação e apoio a pessoas com dislexia</strong>, oferecendo informações, recursos e testes interativos.  
 Projeto acadêmico realizado por três integrantes.
 </p>
 
