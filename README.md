@@ -8,6 +8,10 @@
 Aplicação desenvolvida para auxiliar na <strong>identificação e apoio a pessoas com dislexia</strong>, oferecendo informações, recursos e testes interativos.  
 Projeto acadêmico realizado por três integrantes.
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/status-concluído-brightgreen" alt="Status">
+  <img src="https://img.shields.io/badge/versão-1.0.0-blue" alt="Versão">
+</p>
 
 
 > **Stack principal:** HTML5, CSS3, JavaScript  
