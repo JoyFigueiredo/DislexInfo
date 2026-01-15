@@ -19,7 +19,7 @@ Projeto acadêmico realizado por três integrantes.
 [![Email](https://img.shields.io/badge/joicebfigueiredo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()  
 [![GitLab](https://img.shields.io/badge/Joice_Figueiredo-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/JoyFigueired)
 
-▶ https://img.shields.io/badge/Lucas_Oliveira-330F63?style=for-the-badge&logo=gitlab&logoColor=white](https://gitlab.com/lucasod)  
+▶ [![Lucas Oliveira](https://img.shields.io/badge/Lucas_Oliveira-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/lucasod)  
 [![Email](https://img.shields.io/badge/lucas.2008lu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 ▶ [![Leandro_Santana](https://img.shields.io/badge/Leandro_Santana-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/leandrosantafer)  
