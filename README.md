@@ -10,6 +10,10 @@ Projeto acadêmico realizado por três integrantes.
 </p>
 
 
+> **Stack principal:** HTML5, CSS3, JavaScript  
+> **Plataforma alvo:** Navegadores (responsivo)  
+> **Objetivo:** Sensibilização e inclusão por meio de recursos educativos
+
 ---
 
 ## 👥 Integrantes
@@ -30,11 +34,21 @@ Projeto acadêmico realizado por três integrantes.
 
 ---
 
-## 🎯 Objetivo do projeto
 
-- Fornecer informações sobre dislexia.
-- Criar uma interface amigável para testes e recursos educativos.
-- Sensibilizar sobre a importância da inclusão.
+## 🎯 Como funciona
+
+- Exibe informações sobre dislexia de forma clara e acessível.
+- Disponibiliza testes interativos para auxiliar na identificação.
+- Interface responsiva para melhor experiência em diferentes dispositivos.
+
+---
+
+## ✨ Funcionalidades
+
+- Página inicial com informações sobre dislexia.
+- Testes simples e recursos educativos.
+- Design responsivo para acessibilidade.
+- Estrutura modular (HTML, CSS, JS).
 
 ---
 
@@ -49,7 +63,7 @@ DislexInfo/
 ```
 ---
 
-## 🚀 Como executar
+## ▶️ Executar
 
 ### Opção 1 — Abrir no navegador
 1. Clone o repositório:
@@ -64,10 +78,18 @@ Use uma extensão como **Live Server** no VS Code para melhor experiência.
 ---
 
 
-## 🛠️ Tecnologias utilizadas
+## 🧩 Lógica em alto nível
 
-- **HTML5**, **CSS3**, **JavaScript**
+- **HTML5** : estrutura das páginas e conteúdo.
+- **CSS3** : estilização e responsividade.
+- **JavaScript** : interatividade e lógica dos testes.
 - Design responsivo para melhor acessibilidade.
+
+---
+
+## 🛠️ Desenvolvimento
+- Recomendado usar VS Code com extensão Live Server.
+- Estrutura simples, sem dependências externas complexas.
 
 ---
 
@@ -83,3 +105,11 @@ Concluído para fins acadêmicos, com possibilidade de melhorias:
 ## 📄 Licença
 
 Este projeto está licenciado sob a **MIT License**. Veja o arquivo `LICENSE` para mais detalhes.
+
+---
+## 🗺 Roadmap (sugestões)
+
+ - Adicionar testes mais detalhados.
+ - Implementar dicas e recursos multimídia.
+ - Criar persistência de resultados (localStorage ou banco).
+ - Suporte multilíngue.
