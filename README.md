@@ -36,13 +36,14 @@ Projeto acadêmico realizado por três integrantes.
 ---
 
 ## 🗂️ Estrutura do repositório
+```
 DislexInfo/
-├─ index.html        # Página principal
-├─ css/             # Estilos
-├─ js/              # Scripts
-├─ assets/          # Imagens e ícones
-└─ README.md        # Este arquivo
-
+        ├─ index.html        # Página principal
+        ├─ css/             # Estilos
+        ├─ js/              # Scripts
+        ├─ assets/          # Imagens e ícones
+        └─ README.md        # Este arquivo
+```
 ---
 
 ## 🚀 Como executar
