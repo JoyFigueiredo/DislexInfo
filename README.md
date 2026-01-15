@@ -1,11 +1,14 @@
-# Dislexinfo
+<h1 align="center">Dislexinfo</h1>
 
 <div align="center">
 <img src="https://gitlab.com/JoyFigueired/dislexinfo/-/raw/main/Logo.png"/>
 </div>
 
+<p align="center">
 Aplicação desenvolvida para auxiliar na **identificação e apoio a pessoas com dislexia**, oferecendo informações, recursos e testes interativos.  
 Projeto acadêmico realizado por três integrantes.
+</p>
+
 
 ---
 
